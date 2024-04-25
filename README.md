@@ -1,14 +1,8 @@
-# VBot - Custom chatbot using GPT3
+# README.md
 
-This repository contains a custom chatbot powered by GPT3 using python and react. 
-The frontend folder contains the website and backend folder contains the fastapi server loaded with GPT3.
+This file has intentionally been left blank!
 
-### React demo
-![demo](demos/demo2.gif)
+Good luck!
 
-### Gradio demo
-![screenshot1](demos/output1.png)
-![screenshot2](demos/output2.png)
-![screenshot3](demos/output3.png)
 
 
